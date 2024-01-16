@@ -23,4 +23,6 @@ Install the required dependencies mentioned in the project documentation.
 Run the Flask web application locally to start exploring and predicting flight fares.
 
 
+
+
 Thank you for exploring the Flight Fare Prediction and Booking System! If you have any questions or feedback, please don't hesitate to reach out. Bon voyage! 🌟✈️
