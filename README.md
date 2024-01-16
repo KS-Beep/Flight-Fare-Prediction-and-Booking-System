@@ -7,8 +7,6 @@ In the realm of travel and tourism, predicting flight fares has always been a ch
 ## 🛠️ Technology Used
 The following technologies power the Flight Fare Prediction and Booking System:
 
-Machine Learning: The magic happens with machine learning algorithms, particularly the almighty Random Forest, to make accurate predictions based on historical flight data. 🤖
-
 Flask: The web application is served up hot and fresh using Flask, a lightweight and flexible Python web framework, providing a user-friendly interface for users to input preferences and receive fare predictions. 🌐
 
 Python: The entire project is brewed in Python, utilizing its rich ecosystem of libraries and tools for data analysis, machine learning, and web development. 🐍
